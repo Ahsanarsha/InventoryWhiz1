@@ -1,0 +1,24 @@
+# Query: @mipmap/ic_launcher
+
+7 results - 7 files
+
+android\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml:
+  4:     <foreground android:drawable="@mipmap/ic_launcher_foreground"/>
+
+android\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml:
+  4:     <foreground android:drawable="@mipmap/ic_launcher_foreground"/>
+
+build\app\intermediates\manifest_merge_blame_file\debug\manifest-merger-blame-debug-report.txt:
+  90: 48        android:icon="@mipmap/ic_launcher"
+
+build\app\intermediates\merged_manifest\debug\out\AndroidManifest.xml:
+  48:         android:icon="@mipmap/ic_launcher"
+
+build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:
+  48:         android:icon="@mipmap/ic_launcher"
+
+build\app\intermediates\packaged_manifests\debug\AndroidManifest.xml:
+  48:         android:icon="@mipmap/ic_launcher"
+
+lib\main.dart:
+  101:         AndroidInitializationSettings('@mipmap/ic_launcher');

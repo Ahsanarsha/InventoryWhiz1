@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "109494146402",
+    "firebase_url": "https://card-club-7f1c9-default-rtdb.firebaseio.com",
+    "project_id": "card-club-7f1c9",
+    "storage_bucket": "card-club-7f1c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109494146402:android:e3b93198fc10495884883b",
+        "android_client_info": {
+          "package_name": "com.cardclub.reminders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109494146402-62ipn0g5ufglnlueljdnuladakg1vanv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cardclub.reminders",
+            "certificate_hash": "9b1ba74ee63659ccf59095d945ac46cb690ac445"
+          }
+        },
+        {
+          "client_id": "109494146402-l2u4usipaubp3pidt0n6q1j9rrfk9auq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBWrUdV23h8ZfKnQAGXF2Fplmw1sSwZZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109494146402-l2u4usipaubp3pidt0n6q1j9rrfk9auq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
